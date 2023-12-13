@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\47349403801\\Desktop\\webapi.event+\\webapi.event+.csproj": {}
+    "C:\\Users\\47349403801\\Desktop\\api_eventdeploy\\webapi.event+\\webapi.event+.csproj": {}
   },
   "projects": {
-    "C:\\Users\\47349403801\\Desktop\\webapi.event+\\webapi.event+.csproj": {
+    "C:\\Users\\47349403801\\Desktop\\api_eventdeploy\\webapi.event+\\webapi.event+.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\47349403801\\Desktop\\webapi.event+\\webapi.event+.csproj",
+        "projectUniqueName": "C:\\Users\\47349403801\\Desktop\\api_eventdeploy\\webapi.event+\\webapi.event+.csproj",
         "projectName": "webapi.event+",
-        "projectPath": "C:\\Users\\47349403801\\Desktop\\webapi.event+\\webapi.event+.csproj",
+        "projectPath": "C:\\Users\\47349403801\\Desktop\\api_eventdeploy\\webapi.event+\\webapi.event+.csproj",
         "packagesPath": "C:\\Users\\47349403801\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\47349403801\\Desktop\\webapi.event+\\obj\\",
+        "outputPath": "C:\\Users\\47349403801\\Desktop\\api_eventdeploy\\webapi.event+\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
